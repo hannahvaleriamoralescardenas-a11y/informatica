@@ -152,7 +152,7 @@ body {
 /*Sección para cambiar colores de fondo, tamaño de letra y alineación del texto o contenedores
 del area de Estudios realizados y experiencia laboral*/
 .list li {
-    background-color: rgb(210, 238, 205);
+    background-color: rgb(112,167,204);
     border-left: 5px solid var(--primary-color);
     padding: 1rem;
     margin-bottom: 1rem;
@@ -200,7 +200,7 @@ del area de Estudios realizados y experiencia laboral*/
 
 /*Efecto de otro color al pasar el mouse por el botón*/
 .linktree-link:hover {
-    background-color: #2980b9;
+    background-color: #8f7ebe;
 }
 
 /* Contact Form */
@@ -278,6 +278,7 @@ del area de Estudios realizados y experiencia laboral*/
     }
 
 }
+
 
 
 
