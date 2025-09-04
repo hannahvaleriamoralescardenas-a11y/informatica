@@ -20,7 +20,7 @@ body {
 /*Sección para cambiar color de la barra de sección*/
 .header {
     background: var(--secondary-color);
-    color: rgb(233, 85, 85);
+    color: rgb(158,114,202);
     padding: 1rem 0;
     position: fixed;
     width: 100%;
@@ -278,6 +278,7 @@ del area de Estudios realizados y experiencia laboral*/
     }
 
 }
+
 
 
 
