@@ -82,7 +82,7 @@ body {
 
 /*Sección para cambiar color de las palabras en la barra de sección*/
 .nav-link {
-    color: rgb(93, 94, 32);
+    color: rgb(126,25,128);
     text-decoration: none;
     font-weight: bold;
     transition: color 0.3s ease;
@@ -278,6 +278,7 @@ del area de Estudios realizados y experiencia laboral*/
     }
 
 }
+
 
 
 
