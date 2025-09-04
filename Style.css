@@ -82,7 +82,7 @@ body {
 
 /*Sección para cambiar color de las palabras en la barra de sección*/
 .nav-link {
-    color: rgb(126,25,128);
+    color: rgb(224,180,223);
     text-decoration: none;
     font-weight: bold;
     transition: color 0.3s ease;
@@ -101,7 +101,7 @@ body {
 /*Color y tamaño del area para la foto de perfil y resumen*/
 .profile-section {
     padding-top: 100px; /* Espacio para el header fijo */
-    background-color: rgb(126,25,128);
+    background-color: rgb(224,180,223);
 }
 
 /*Tamaño del titulo para estudios y experiencia*/
@@ -278,6 +278,7 @@ del area de Estudios realizados y experiencia laboral*/
     }
 
 }
+
 
 
 
