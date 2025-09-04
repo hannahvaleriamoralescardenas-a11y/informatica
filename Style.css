@@ -100,7 +100,7 @@ body {
 
 /*Color y tamaño del area para la foto de perfil y resumen*/
 .profile-section {
-    padding-top: 200px; /* Espacio para el header fijo */
+    padding-top: 100px; /* Espacio para el header fijo */
     background-color: rgb(243, 243, 243);
 }
 
@@ -278,4 +278,5 @@ del area de Estudios realizados y experiencia laboral*/
     }
 
 }
+
 
