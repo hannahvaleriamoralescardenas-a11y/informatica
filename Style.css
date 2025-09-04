@@ -223,7 +223,7 @@ del area de Estudios realizados y experiencia laboral*/
 
 /*Sección para cambiar el color del botón de enviar mensaje y el color de la letra */
 .submit-button {
-    background-color: rgb(126,25,128);
+    background-color: rgb(224,180,223);
     color: white;
     border: none;
     padding: 1rem;
@@ -278,6 +278,7 @@ del area de Estudios realizados y experiencia laboral*/
     }
 
 }
+
 
 
 
